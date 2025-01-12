@@ -12,13 +12,15 @@ description: "I love chess and books, among other things. So I'll share reviews 
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
-youtube_username: Maria-qdreamer
+youtube_username: @Maria-qdreamer
 #googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+include: 
+  - /js/highlightjs/extras/chess-images.css
 
 rss: rss
 
