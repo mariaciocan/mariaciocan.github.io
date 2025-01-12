@@ -19,7 +19,9 @@ Anyway, my tube was delayed and I arrived at the venue 15 minutes late, starting
 the clock, so I quickly developed into a classic French defense setup. Following the
 typical pawn breakthroughs c5 and d4, I found myself in the following middlegame:
 
-![Alt text](/mariaciocan.github.io/_posts/_posts/pictures/position1.png)
+
+![Alt text](/docs/assets/pictures/position1.png)
+
 
 I was mildly discontent with my position as black. My light-squared bishop was very
 limited and I had a weakness on e6.
@@ -37,14 +39,17 @@ opponent take a wrong turn. Plus, I felt I had two easy moves ahead of me: Rb8 a
 Bd7, simply improving those pieces.
 My opponent took me by surprise:
 
-![Alt text](/mariaciocan.github.io/_posts/_posts/pictures/position2.png)
+![Alt text](/docs/assets/pictures/position2.png)
+
 
 White pushed f4-f5, a fairly aggressive move that threatens to take on g6. A move
 before (see diagram above), I had thought about white pushing f5. I felt confidently
 about responding with e5 so I dismissed that move for white.
 But seeing it played on the board forced me to explore the f takes g6 scenario:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position3.png)
+![alt text](/docs/assets/pictures/position3.png)
+
+
 
 The cool thing about black’s e5 is that it doesn’t just attack the knight, but also threatens
 a fork on e4 next move. Basically, white loses a minor one way or another. So instead of
@@ -59,14 +64,16 @@ would allow me to capture those pawns back.
 After he recaptured on d4 and I retreated the bishop, I realised white had much more
 dynamic play than I had anticipated:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position5.png)
+
+![alt text](/docs/assets/pictures/position5.png)
 
 Black should not forget that g takes h7 is just lurking in the background. The pressure of
 white’s heavy pieces on the open files, combined with the strength of the bishop pair,
 makes up much more than a pawn.
 In fact, just one move later, I made a critical mistake, responding to Bh6 with Bg4:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position6.png)
+
+![alt text](/docs/assets/pictures/position6.png)
 
 I was now down to 30 seconds, just like my opponent, and I felt that the game was
 about to be decided momentarily. My go-to next move was taking the rook on f3. But I
@@ -74,11 +81,13 @@ was missing something huge in this position: that black should absolutely not ca
 the rook on f3 next move.
 With no one left to cover e6, the white queen scoops in to deliver a cute checkmate:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position7.png)
+
+![alt text](/docs/assets/pictures/position7.png)
 
 The best move for white after Bg4 is the quiet and efficient h3:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position8.png)
+![alt text](/docs/assets/pictures/position8.png)
+
 
 Since Bishop takes f3 leads to checkmate, black has to retreat. White’s pressure simply
 resumes, the first black piece to fall probably being the rook on f8.
@@ -87,7 +96,8 @@ happened: a queen sacrifice!
 My suspicious frowned turned into a worried one as I found my opponent’s fantastic
 checkmate idea:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position9.png)
+![alt text](/docs/assets/pictures/position9.png)
+
 
 I started calculating Q takes g3 instead, hoping to take on e2 after white takes on g3
 and simplify to an endgame. But white has the powerful Q takes e7, and the threat of
@@ -96,7 +106,8 @@ The clock was now close to ten seconds, and I reconsidered the B takes e2
 continuation. It’s frustrating to see a hanging queen and be unable to take it. That’s
 when I finally found it:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position10.png)
+
+![alt text](/docs/assets/pictures/position10.png)
 
 King to f7! In my earlier calculation, I had missed the king’s escape to f7 and then e6 (if
 it wasn’t for e6, white would have Bg6 checkmate). But king to f7 puts an end to white’s
@@ -107,7 +118,8 @@ hand quickly pushed the king to f7.
 Relief took over my body and the game didn’t last much longer. Below is the final
 position:
 
-![alt text](/mariaciocan.github.io/_posts/pictures/position11.png)
+![alt text](/docs/assets/pictures/position11.png)
+
 
 We shook hands and I headed home feeling happy.
 
