@@ -87,7 +87,7 @@ My opponent opened with the Trompowsky, which immediately make me go "Oh, no, I 
           frameborder="0">
   </iframe>
 </div>
-When he played this, I did think it was a strange decision. And in fact it is - computer already gives black a -1.0 eval after R takes b8 and Q takes d4. Regardless, things took an even stranger turn that lead to an unexpected queens' trade: 
+When he played this, I did think it was a strange decision. And in fact it is - computer already gives black a -1.0 eval after R takes b8 and Q takes d4. Regardless, things took an even stranger turn that led to an unexpected queens' trade: 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/1U5YgpC8#16"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
