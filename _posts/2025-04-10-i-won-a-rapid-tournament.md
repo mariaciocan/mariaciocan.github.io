@@ -155,7 +155,7 @@ This trade introduces a significant imbalance in the position. White gives up th
   </iframe>
 </div>
 
-In the resulting sequence of move, white ends up losing an exchange: 
+In the resulting sequence of moves, white ends up losing an exchange: 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/CDeW4tsi#38"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
