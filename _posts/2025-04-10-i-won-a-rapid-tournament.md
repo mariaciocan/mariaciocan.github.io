@@ -1,16 +1,19 @@
-# I won a rapid tournament! 
+# I won a rapid tournament! 🏆❤️
 
 We are all overly familiar with all the heartbreak and frustration chess can incur in even the most calm & collected players 😅. But today I want to boast about the satisfaction of winning a game with a fiery tactic or a skillful strategic play, about the pride of seeing your name at the top of the leaderboard ... 
 
-Last weekend, I played the [Ealing FIDE Rapid Play](https://londonfidecongress.com/ealing-rapidplay) tournament in West London. The format was 6 rounds, one after another, with a time control of 15 minutes + 5 seconds increment. It was a sunny but chilly day, and the playing venue was conveniently located close to a few stores, coffee shops, as well as one of my favorite bakeries, Gail's. Things were off to a promising sun as I got to enjoy a coffee & a pastry under the sun. 
+Last weekend, I played the [Ealing FIDE Rapid Play](https://londonfidecongress.com/ealing-rapidplay) tournament in West London. The format was 6 rounds, one after another, with a time control of 15 minutes + 5 seconds increment. It was a sunny but chilly day, and the playing venue was conveniently located close to a few stores, coffee shops, as well as one of my favorite bakeries, Gail's. Things were off to a promising sun as I got to enjoy a coffee and a pastry under the sun. 
+![alt text](/docs/assets/pictures/bakery.png)
 
-But I did not have high expectations around the outcome of the tournament. I rarely play rapid over the board, so I often feel like classical chess is the only one I care about when it comes to my performance. I can't help but think about the viral Dubov moment and find that, in a hilarious way, he has a point. Rapid is tricky to play - you can't go too in depth in a position because you risk getting into unescapable time trouble, but you also can't rush through your moves because if you make a mistake, your opponent will have time to spot it. 
+
+But I did not have high expectations around the outcome of the tournament. I rarely play rapid over the board, so I often feel like classical chess is the only one I care about when it comes to my performance. I can't help but think about the [viral Dubov moment](https://www.youtube.com/shorts/MVBZu0k2R2g) and find that, in a hilarious way, he has a point. Rapid is tricky to play - you can't go too in depth in a position because you risk getting into unescapable time trouble, but you also can't rush through your moves because if you make a mistake, your opponent will have time to spot it. 
+
 But rapid can also be a lot of fun, especially for more experienced players. You get to trust your gut more, play more based on vibes 😂. And if you land in positions where you're familiar with the key ideas and plans, you have a great advantage over your opponent. 
 
-### Round 1 - black pieces 
+### Round 1 - ⚫️
 
-I started the tournament facing one of the least desirable opponents to have: a boy born in 2017 🤯. Don't get me wrong, children are adorable. 
-But also often underrated! 
+I started the tournament facing one of the least desirable opponents to have: a boy born in 2017 🤯. Don't get me wrong, children are adorable. But also often underrated! 
+
 We reached the following position after one of the main lines in the King's Indian, The Fianchetto Variation: 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/RontNf9D#22"
@@ -20,7 +23,9 @@ We reached the following position after one of the main lines in the King's Indi
 </div>
 
 He played very fast until here, indicating that he knew the line. 
-(Sidenote, you are not required to write down your moves in rapid, so I didn't. I had to harvest my short term memory to recollect the games - at least this one was pretty easy because it is well-known territory until here.) Black is threatening to take on c4, which is why the computer's arrow is suggesting Nd2 for White. But my opponent went for a wrong turn: he took on b5 and played a3. Black is already in a better position after this move, because it weakens the b3 pawn. And although I didn't play the most accurate move (which would have been Bf5 according to the computer), I managed to get a winning position within a few moves. (use the arrows below to see the whole game. Also check out the Developer's Note if you're curious how I made this cool lichess embedding happen.)
+(<i>Sidenote, you are not required to write down your moves in rapid, so I didn't. I had to harvest my short term memory to recollect the games - at least this one was pretty easy because it is well-known territory until here. </i>)
+
+ Black is threatening to take on c4, so here the computer is suggesting Nd2 for White. But my opponent went for a wrong turn: he took on b5 and played a3. Black is already in a better position after this move, because it weakens the b3 pawn. And although I didn't play the most accurate move (which would have been Bf5 according to the computer), I managed to get a winning position within a few moves. (use the arrows below to see the whole game. Also check out [this resource](https://lichess.org/developers) if you're curious how I made this cool lichess embedding happen.)
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/RontNf9D#25"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -29,7 +34,7 @@ He played very fast until here, indicating that he knew the line.
 </div>
 
 
-### Round 2 - white pieces 
+### Round 2 
 
 My game in round 2 made me feel so grateful to be playing chess. I was paired against someone slightly higher rated than me in rapid (1933 vs 1952), but I got the perfect rapid situation out of the opening: we entered a typical Italian Game position, if you ever watch me stream, you know that's my favourite opening.  And therefore I have a pretty good feel for some of the typical attacking maneuvers. I also made a YouTube video a couple of months ago of another beautiful game I won with this opening.  
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
@@ -59,9 +64,21 @@ White's advantage is long-term; they don't have to hurry here, they can take tim
           frameborder="0">
   </iframe>
 </div>
-I liked this tactic so much, I even made an Instagram reel about it. Yes, yes, I plead guilty to bragging about my wins. But don't look away just yet, because there isn't much to brag about in the next game ... 
+<br>
+I liked this tactic so much, I even made an Instagram reel about it:
 
-### Round 3 - black pieces 
+<blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reel/DW7TpY4iCsT/"
+    data-instgrm-captioned
+    data-instgrm-version="14"
+    style="max-width:660px; min-width:326px; width:100%;">
+</blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+
+ Yes, yes, I plead guilty to bragging about my wins. But don't look away just yet, because there isn't much to brag about in the next game ... 
+
+### Round 3 - ⚫️ 
 
 My opponent opened with the Trompowsky, which immediately make me go "Oh, no, I haven't looked at this line in a while". But the game got out of known territory quickly, when White decided to go for a quick e4, and then, probably to prevent Nc6 attacking the Queen on d4, gave up their dark squared bishop for the knight on b8:  
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
@@ -102,7 +119,7 @@ Eval? Still -0.5 even though black is a pawn down. Despite liking my position, I
 
 The game lasted 10 more moves from here. Honestly, at the end of this game, I genuinely did not know what I did so wrong. Or rather, where did things start going south. My intuition was right to believe I had good piece activity after the queens trade - yet I couldn't make it work, got into time troubled, and collapsed. This game might have had a completely different outcome if it would have been a classical one. No excuses, though 😒 
 
-### Round 4 - white pieces 
+### Round 4 
 
 Unfortunately, my memory took a hit after the loss in the previous round, because I was not able to remember the entirety of the game. This is because unlike with the previous 3 games, which I saved on lichess on the day of the tournament, this game I only tried to reconstruct when writing this article, almost a week later. In fact, I am 100% sure the position below was not the one we had on the board, but an estimation I built to showcase the tactical motif of the game, Nh5 and white wins a piece, and shortly after, the game:
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
@@ -113,7 +130,7 @@ Unfortunately, my memory took a hit after the loss in the previous round, becaus
 </div>
 If white's setup looks vaguely familiar, well done! - you recognized the structure and the thematic Ng3 from the Italian Game, which I also played in round 2. While I was happy I won this round, I didn't have much hope for a comeback - the guy who beat me in round 3, won in round 4 as well, achieving a perfect 4/4. 
 
-### Round 5 - black pieces 
+### Round 5 - ⚫️ 
 This game was a very nerve-wracking one, because after I got a winning position, my opponent tried very hard to trick me by playing aggressive unexpected moves while I was in time trouble. The stressful thing about this time control - 15m + 5s - is that the increment is so low, it's very hard to build back time. You're pretty much moving to survive. The critical moment of this game happened when White decided to go for the Bishop takes f5 trade:
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/CDeW4tsi#26"
@@ -149,7 +166,7 @@ Like I said, my opponent was not ready to give up easily. Keep going through the
 
 Two boards to the left, on board 1, Ali, who had defeated me in round 3, was playing a crazy bishop vs knight endgame. His board was surrounded by virtually everyone, watching their every move and every second ticking down the clock. Having everyone watch your game can also be destabilizing - but it's also empowering for some people. Anyway, their game ended in a draw. 
 
-### Round 6 - white pieces 
+### Round 6 
 
 I was now the runner-up, just behind Ali:
 
@@ -179,7 +196,7 @@ This is wrong because the white bishop can retreat and defend white's queenside 
 </div>
 Instead of R takes e7, computer is a fan of the intermediary g5 push for black, which forces the white bishop to retreat to g3, and then black gets excellent activity with the rook on e2. We shook hands a few moves later. I couldn't believe it! 
 
-I turned to my right to look at Ali's game, on board 1. Their position was crazy - Ali with the black pieces, was a couple of pawns up. Additionally, White had played a very unorthodox game: they had a king on e2, double pawn on the d file, and a very disorganized position. But I couldn't be happier - that meant chaos! My heart was racing watching their game faster than during my own game. All of a sudden, White can win Ali's rook. A full rook in a still chaotic position. 
+I turned to my right to look at Ali's game, on board 1. Their position was crazy - Ali with the ⚫️, was a couple of pawns up. Additionally, White had played a very unorthodox game: they had a king on e2, double pawn on the d file, and a very disorganized position. But I couldn't be happier - that meant chaos! My heart was racing watching their game faster than during my own game. All of a sudden, White can win Ali's rook. A full rook in a still chaotic position. 
 But he goes for a repetition! I nearly jump out of my chair. "TAKE HIS ROOK !!!" is all I want to yell. 
 White changes his mind. Black didn't have a way to escape the checks, so after a repetition, White is now a rook up. But this now makes me even more nervous - I can see with my own eyes I have a real chance at surpassing him - but what if White throws it away ??? 
 Shortly after winning the rook, White sacrifices a knight. WHYYYYYYY ?????? I want to scream once again. Why risk it when you're a rook up ??? 
@@ -188,3 +205,5 @@ HE SEES IT !!!!!
 
 I get up, quickly turning my huge grin away. No need to let Ali see me happy at his expense. He played such a good tournament. 
 ## I WON A RAPID TOURNAMENT !!! 
+![Out of context picture from Morocco - I did not take pics on the day of the tournament 🥲](/docs/assets/pictures/250D6202-90AF-40B2-B85C-32E084D16E80.jpeg)
+<i> Out of context picture from Morocco - I did not take pics on the day of the tournament 🥲</i>
