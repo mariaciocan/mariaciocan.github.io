@@ -80,7 +80,7 @@ I liked this tactic so much, I even made an Instagram reel about it:
 
 ### Round 3 - ⚫️ 
 
-My opponent opened with the Trompowsky, which immediately make me go "Oh, no, I haven't looked at this line in a while". But the game got out of known territory quickly, when White decided to go for a quick e4, and then, probably to prevent Nc6 attacking the Queen on d4, gave up their dark squared bishop for the knight on b8:  
+My opponent opened with the Trompowsky, which immediately made me go "Oh, no, I haven't looked at this line in a while". But the game got out of known territory quickly, when White decided to go for a quick e4, and then, probably to prevent Nc6 attacking the Queen on d4, gave up their dark squared bishop for the knight on b8:  
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/1U5YgpC8#11"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
