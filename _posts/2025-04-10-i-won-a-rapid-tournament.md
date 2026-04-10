@@ -109,6 +109,7 @@ But things are not so easy. Black needs at least a couple of moves to be able to
           frameborder="0">
   </iframe>
 </div>
+
 Eval? Still -0.5 even though black is a pawn down. Despite liking my position, I unfortunately blew through a lot of my time trying to figure out how to approach it, and my opponent built a 5 minutes advantage on the clock. After a few inaccuracies on my part, white is better if they defend in this position with 21.Rb1, which they did. 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/1U5YgpC8#40"
@@ -121,17 +122,20 @@ The game lasted 10 more moves from here. Honestly, at the end of this game, I ge
 
 ### Round 4 
 
-Unfortunately, my memory took a hit after the loss in the previous round, because I was not able to remember the entirety of the game. This is because unlike with the previous 3 games, which I saved on lichess on the day of the tournament, this game I only tried to reconstruct when writing this article, almost a week later. In fact, I am 100% sure the position below was not the one we had on the board, but an estimation I built to showcase the tactical motif of the game, Nh5 and white wins a piece, and shortly after, the game:
+Unfortunately, my memory took a hit after the loss in the previous round, because I was not able to remember this game. This is because unlike with the previous 3 games, which I saved on lichess on the day of the tournament, this game I only tried to reconstruct when writing this article, almost a week later. In fact, I am 100% sure the position below was not the one we had on the board, but an estimation I built to showcase the tactical motif of the game - Nh5 and white wins a piece, and shortly after, the game:
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/QISvOQg3#2"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0">
   </iframe>
 </div>
-If white's setup looks vaguely familiar, well done! - you recognized the structure and the thematic Ng3 from the Italian Game, which I also played in round 2. While I was happy I won this round, I didn't have much hope for a comeback - the guy who beat me in round 3, won in round 4 as well, achieving a perfect 4/4. 
+
+If white's setup looks vaguely familiar, well done! - you recognized the structure and the thematic Ng3 from the Italian Game, which I also played in game 2. While I was happy I won this round, I didn't have much hope for a comeback - the guy who beat me in round 3, won again, achieving a perfect 4/4. 
 
 ### Round 5 - ⚫️ 
-This game was a very nerve-wracking one, because after I got a winning position, my opponent tried very hard to trick me by playing aggressive unexpected moves while I was in time trouble. The stressful thing about this time control - 15m + 5s - is that the increment is so low, it's very hard to build back time. You're pretty much moving to survive. The critical moment of this game happened when White decided to go for the Bishop takes f5 trade:
+This game was a very nerve-wracking one, because after I got a winning position, my opponent tried very hard to trick me by playing aggressive unexpected moves while I was in time trouble. The stressful thing about this time control - 15m + 5s - is that the increment is so low, it's very hard to build back time. You're pretty much moving to survive.
+
+ The critical moment of this game happened when White decided to go for the Bishop takes f5 trade:
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/CDeW4tsi#26"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -162,6 +166,7 @@ In the resulting sequence of moves, white ends up losing an exchange:
           frameborder="0">
   </iframe>
 </div>
+
 Like I said, my opponent was not ready to give up easily. Keep going through the moves above to see what he tried. Knowing that you're winning, yet fearing you might screw it up can be a very destabilizing feeling. But in the end I advanced to 4 out of 5 points! 
 
 Two boards to the left, on board 1, Ali, who had defeated me in round 3, was playing a crazy bishop vs knight endgame. His board was surrounded by virtually everyone, watching their every move and every second ticking down the clock. Having everyone watch your game can also be destabilizing - but it's also empowering for some people. Anyway, their game ended in a draw. 
@@ -171,7 +176,10 @@ Two boards to the left, on board 1, Ali, who had defeated me in round 3, was pla
 I was now the runner-up, just behind Ali:
 
 ![alt text](/docs/assets/pictures/rankings-after-rd5.png)
-I knew that a win could potentially make me the winner of the tournament, but I was pretty confident Ali would bring it home in the last game. Maybe I just didn't want to get my hopes up. I decided to play fast and not take huge risks. I didn't want to do something foolish or risky just because I really needed a win. But the game ended surprisingly abruptly: 
+
+I knew that a win could potentially make me the winner of the tournament, but I was pretty confident Ali would bring it home in the last game. Maybe I just didn't want to get my hopes up.
+
+ I decided to play fast and not take huge risks. I didn't want to do something foolish or risky just because I really needed a win. But the game ended surprisingly abruptly: 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/aXWRYQLk#34"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -196,10 +204,15 @@ This is wrong because the white bishop can retreat and defend white's queenside 
 </div>
 Instead of R takes e7, computer is a fan of the intermediary g5 push for black, which forces the white bishop to retreat to g3, and then black gets excellent activity with the rook on e2. We shook hands a few moves later. I couldn't believe it! 
 
-I turned to my right to look at Ali's game, on board 1. Their position was crazy - Ali with the ⚫️, was a couple of pawns up. Additionally, White had played a very unorthodox game: they had a king on e2, double pawn on the d file, and a very disorganized position. But I couldn't be happier - that meant chaos! My heart was racing watching their game faster than during my own game. All of a sudden, White can win Ali's rook. A full rook in a still chaotic position. 
+I turned to my right to look at Ali's game, on board 1. Their position was crazy - Ali with the black pieces, was a couple of pawns up. Additionally, White had played a very unorthodox game: they had a king on e2, double pawns on the d file, and a very disorganized position. But I couldn't be happier - that meant chaos! My heart was racing watching their game faster than during my own game. All of a sudden, White can win Ali's rook. A full rook in a still chaotic position. 
+
 But he goes for a repetition! I nearly jump out of my chair. "TAKE HIS ROOK !!!" is all I want to yell. 
-White changes his mind. Black didn't have a way to escape the checks, so after a repetition, White is now a rook up. But this now makes me even more nervous - I can see with my own eyes I have a real chance at surpassing him - but what if White throws it away ??? 
+White changes his mind. Black didn't have a way to escape the checks, so after a repetition, White is now a rook up.
+
+But this now makes me even more nervous - I can see with my own eyes I have a real chance - but what if White throws it away 😰
+
 Shortly after winning the rook, White sacrifices a knight. WHYYYYYYY ?????? I want to scream once again. Why risk it when you're a rook up ??? 
+
 But then I see it. Checkmate in 3. It's not easy. White has to give a check, then do a preparatory move that basically threatens unstoppable mate. Will he see it ??? 
 HE SEES IT !!!!! 
 
