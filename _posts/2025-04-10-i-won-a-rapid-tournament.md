@@ -6,7 +6,7 @@ Last weekend, I played the [Ealing FIDE Rapid Play](https://londonfidecongress.c
 ![alt text](/docs/assets/pictures/bakery.png)
 
 
-But I did not have high expectations around the outcome of the tournament. I rarely play rapid over the board, so I often feel like classical chess is the only one I care about when it comes to my performance. I can't help but think about the [viral Dubov moment](https://www.youtube.com/shorts/MVBZu0k2R2g) and find that, in a hilarious way, he has a point. Rapid is tricky to play - you can't go too in depth in a position because you risk getting into unescapable time trouble, but you also can't rush through your moves because if you make a mistake, your opponent will have time to spot it. 
+But I did not have high expectations around the outcome of the tournament. I rarely play rapid over the board, so I often feel like classical chess is the only one I care about when it comes to my performance. I can't help but think about the [viral Dubov moment](https://www.youtube.com/shorts/MVBZu0k2R2g) and find that, in a hilarious way, he has a point. Rapid is tricky to play - you can't go too in depth in a position because you risk getting into inescapable time trouble, but you also can't rush through your moves because if you make a mistake, your opponent will have time to spot it. 
 
 But rapid can also be a lot of fun, especially for more experienced players. You get to trust your gut more, play more based on vibes 😂. And if you land in positions where you're familiar with the key ideas and plans, you have a great advantage over your opponent. 
 
