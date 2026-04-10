@@ -135,7 +135,7 @@ If white's setup looks vaguely familiar, well done! - you recognized the structu
 ### Round 5 - ⚫️ 
 This game was a very nerve-wracking one, because after I got a winning position, my opponent tried very hard to trick me by playing aggressive unexpected moves while I was in time trouble. The stressful thing about this time control - 15m + 5s - is that the increment is so low, it's very hard to build back time. You're pretty much moving to survive.
 
- The critical moment of this game happened when White decided to go for the Bishop takes f5 trade:
+The critical moment of this game happened when White decided to go for the Bishop takes f5 trade:
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/CDeW4tsi#26"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
