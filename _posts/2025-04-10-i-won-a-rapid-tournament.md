@@ -43,7 +43,7 @@ My game in round 2 made me feel so grateful to be playing chess. I was paired ag
           frameborder="0">
   </iframe>
 </div>
-The position evolved in a pretty predictable manner: black pushed d5, took on e4 (White does not mind this), traded light squared bishops (often times White doesn't mind this either, because the f5 square becomes even more atteinable), while White got a typical setup with Nf5, Qf3, and Bishop c1 ready to bolt to h6. And in fact, after black's blunder, Qe8, see if you can find White's tactical continuation: 
+The position evolved in a pretty predictable manner: black pushed d5, took on e4 (White does not mind this), traded light squared bishops (often times White doesn't mind this either, because the f5 square becomes even more attainable), while White got a typical setup with Nf5, Qf3, and Bishop c1 ready to bolt to h6. And in fact, after black's blunder, Qe8, see if you can find White's tactical continuation: 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
   <iframe src="https://lichess.org/study/embed/2fMGxrIa/gE9U5Y5I#36"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
