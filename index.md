@@ -8,7 +8,7 @@ By day, I work in tech. By night — or really, any chance I get — I'm pushing
 
 I stream chess on Twitch and occasionally post videos & reels on YouTube & Instagram — come hang out!
 
-<a href="https://www.twitch.tv/YOUR_TWITCH_USERNAME" title="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://www.twitch.tv/blitzingmaria" title="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://www.youtube.com/@Maria-qdreamer" title="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.instagram.com/blitzingmaria" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
