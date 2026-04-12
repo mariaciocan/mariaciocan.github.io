@@ -190,7 +190,7 @@ I knew that a win could potentially make me the winner of the tournament, but I 
 Here my opponent, after a 6 minute think (which is huge in rapid!), offered me a queens trade. White can win the pawn on e7 after the trade, so I figured he was hoping the resulting position would nonetheless be a draw thanks to the rook infiltrating. I didn't think I had much choice anyway, so I went for it. But black took a wrong turn, with R takes e7:
 
 <div style="position: relative; padding-bottom: 66.67%; height: 0; overflow: hidden;">
-  <iframe src="https://lichess.org/study/embed/2fMGxrIa/aXWRYQLk#42"
+  <iframe src="https://lichess.org/study/embed/2fMGxrIa/aXWRYQLk#40"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0">
   </iframe>
