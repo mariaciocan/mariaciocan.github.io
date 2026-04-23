@@ -43,3 +43,75 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* ── Book entries (used in "My YYYY in books" posts) ── */
+.book-entry {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 40px;
+  align-items: flex-start;
+}
+
+.book-cover img {
+  width: 90px;
+  min-width: 90px;
+  border-radius: 4px;
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.18);
+}
+
+.book-info {
+  flex: 1;
+}
+
+.book-title {
+  margin: 0 0 4px;
+  font-size: 1.1em;
+}
+
+.book-author {
+  margin: 0 0 6px;
+  color: #666;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+.book-description {
+  margin: 8px 0 0;
+  font-size: 0.95em;
+}
+
+/* Star rating */
+.star-rating {
+  display: inline-block;
+  font-size: 1.25em;
+  line-height: 1;
+}
+
+.star-rating .star {
+  color: #ddd;
+}
+
+.star-rating .star.full {
+  color: #f5a623;
+}
+
+.star-rating .star.empty {
+  color: #ddd;
+}
+
+/* Half star: clip the coloured fill to the left 50% */
+.star-rating .star.half {
+  position: relative;
+  display: inline-block;
+  color: #ddd;
+}
+
+.star-rating .star.half::after {
+  content: "★";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50%;
+  overflow: hidden;
+  color: #f5a623;
+}
