@@ -1,0 +1,10 @@
+{% assign rating_times_2 = include.rating | times: 2 | round %}
+{% assign full_stars = rating_times_2 | divided_by: 2 | floor %}
+{% assign has_half = rating_times_2 | modulo: 2 %}
+{% assign empty_stars = 5 | minus: full_stars %}
+{% if has_half == 1 %}{% assign empty_stars = empty_stars | minus: 1 %}{% endif %}
+<span class="star-rating" aria-label="Rating: {{ include.rating }} out of 5 stars">
+  {%- for i in (1..full_stars) -%}<span class="star full" aria-hidden="true">★</span>{%- endfor -%}
+  {%- if has_half == 1 -%}<span class="star half" aria-hidden="true">★</span>{%- endif -%}
+  {%- if empty_stars > 0 -%}{%- for i in (1..empty_stars) -%}<span class="star empty" aria-hidden="true">★</span>{%- endfor -%}{%- endif -%}
+</span>

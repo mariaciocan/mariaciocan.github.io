@@ -1,0 +1,11 @@
+<div class="book-entry">
+  <div class="book-cover">
+    <img src="{{ include.cover }}" alt="{{ include.title }} book cover" />
+  </div>
+  <div class="book-info">
+    <h3 class="book-title">{{ include.title }}</h3>
+    <p class="book-author">by {{ include.author }}</p>
+    {% include star-rating.html rating=include.rating %}
+    <p class="book-description">{{ include.description }}</p>
+  </div>
+</div>
