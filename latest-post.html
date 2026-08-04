@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /latest-post/
+---
+{% assign latest_post_url = site.posts.first.url | default: '/archive/' %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Latest post</title>
+    <link rel="canonical" href="{{ latest_post_url | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url={{ latest_post_url | relative_url }}">
+    <script>
+      window.location.replace("{{ latest_post_url | relative_url }}");
+    </script>
+  </head>
+  <body>
+    <a href="{{ latest_post_url | relative_url }}">Continue to the latest post</a>
+  </body>
+</html>
