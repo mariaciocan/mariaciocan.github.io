@@ -75,7 +75,7 @@ I met Fra Fee, one of the main characters in Netflix’s short show, *The Unchos
 ![Selfie with Fra Fee](/docs/assets/pictures/2026-08-26/IMG_5404.jpeg) 
 
 I would also like to take the opportunity in this random section to give a shoutout to the organisers of the Fringe for always having tampons and pads in the public bathrooms! This small gesture shows consideration towards women. <br>
-I also saw Samantha Spiro at the Pleasance, the main venue of the festival. I recognised her from her character, Maureen, in the Netflix show Sex Education. 
+I also saw Samantha Spiro at the Pleasance, the main venue of the festival. I recognised her from her character, Maureen, in the Netflix show *Sex Education*. 
 
 That's it! Thank you so much for making it to the end of this article. Let me know if I inspired you to try out a hobby you've been meaning to take up for a while, but didn't have the courage to! 
 
