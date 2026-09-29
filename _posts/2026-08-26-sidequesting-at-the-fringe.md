@@ -77,3 +77,11 @@ I would also like to take the opportunity in this random section to give a shout
 I also saw Samantha Spiro at the Pleasance, the main venue of the festival. I recognised her from her character, Maureen, in the Netflix show Sex Education. 
 
 That's it! Thank you so much for making it to the end of this article. Let me know if I inspired you to try out a hobby you've been meaning to take up for a while, but didn't have the courage to! 
+
+---
+
+**Come hang out!** I stream chess on Twitch and post videos & reels on YouTube & Instagram.
+
+<a href="https://www.twitch.tv/blitzingmaria" title="Twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://www.youtube.com/@Maria-qdreamer" title="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.instagram.com/blitzingmaria" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
