@@ -71,6 +71,7 @@ When I was playing chess competitively growing up, my FIDE rating was always a v
 Doing improv comedy has been a fun way to discover more about myself, acquire a new way of artistic expression, and become part of a wonderful community! The Fringe festival in Edinburgh is incredibly welcoming, diverse, and well organised. If you were thinking of visiting Edinburgh next year, I really recommend going in August. It's more crowded, but for once the crowds are a good thing: they make the city feel more lively and fun. Oh, but make sure you pack a sweater, as Edinburgh in August is still quite chilly! 
 
 I met Fra Fee, one of the main characters in Netflix’s short show, *The Unchosen*. When my sister visited me in London a couple of months ago, we were both hooked by the show and ended up staying up until 3 in the morning to finish it. Fra was very kind when I approached him, unlike his character in the show, who… well, I won’t spoil it for you. 
+
 ![Selfie with Fra Fee](/docs/assets/pictures/2026-08-26/IMG_5404.jpeg) 
 
 I would also like to take the opportunity in this random section to give a shoutout to the organisers of the Fringe for always having tampons and pads in the public bathrooms! This small gesture shows consideration towards women. <br>
