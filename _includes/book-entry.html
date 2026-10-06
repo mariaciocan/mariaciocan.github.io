@@ -1,7 +1,9 @@
 <div class="book-entry">
-  <div class="book-cover">
-    <img src="{{ include.cover }}" alt="{{ include.title }} book cover" />
-  </div>
+  {% if include.cover %}
+    <div class="book-cover">
+      <img src="{{ include.cover }}" alt="{{ include.title }} book cover" />
+    </div>
+  {% endif %}
   <div class="book-info">
     <h3 class="book-title">{{ include.title }}</h3>
     <p class="book-author">by {{ include.author }}</p>
