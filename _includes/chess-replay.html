@@ -1,0 +1,44 @@
+{%- assign chess_replay_defaults = site.chess_replay -%}
+{%- assign chess_replay_start = include.start | default: "start" -%}
+{%- assign chess_replay_orientation = include.orientation | default: chess_replay_defaults.orientation | default: "white" -%}
+{%- assign chess_replay_autoplay = include.autoplay | default: chess_replay_defaults.autoplay | default: "off" -%}
+{%- assign chess_replay_speed = include.speed | default: chess_replay_defaults.speed | default: 1200 -%}
+{%- assign chess_replay_loop = include.loop | default: chess_replay_defaults.loop | default: false -%}
+{%- assign chess_replay_loop_delay = include.loop-delay | default: chess_replay_defaults.loop_delay | default: 2000 -%}
+{%- assign chess_replay_theme = include.theme | default: chess_replay_defaults.theme | default: "default" -%}
+{%- assign chess_replay_arrow_width = chess_replay_defaults.arrow_width | default: 1 -%}
+{%- assign chess_replay_pieces_file = chess_replay_defaults.pieces_file | default: "pieces/standard.svg" -%}
+{%- unless chess_replay_assets_loaded -%}
+<link rel="stylesheet" href="{{ '/assets/vendor/cm-chessboard/8.15.3/assets/chessboard.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/vendor/cm-chessboard/8.15.3/assets/extensions/arrows/arrows.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/vendor/cm-chessboard/8.15.3/assets/extensions/markers/markers.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/css/chess-replay.css' | relative_url }}">
+<script type="module" src="{{ '/js/chess-replay/chess-replay.js' | relative_url }}"></script>
+{%- assign chess_replay_assets_loaded = true -%}
+{%- endunless %}
+<figure class="chess-replay"
+  data-chess-replay
+  data-start="{{ chess_replay_start | strip | escape }}"
+  data-moves="{{ include.moves | strip | escape }}"
+  data-orientation="{{ chess_replay_orientation | strip | escape }}"
+  data-autoplay="{{ chess_replay_autoplay | strip | escape }}"
+  data-speed="{{ chess_replay_speed | strip | escape }}"
+  data-loop="{{ chess_replay_loop | strip | escape }}"
+  data-loop-delay="{{ chess_replay_loop_delay | strip | escape }}"
+  data-theme="{{ chess_replay_theme | strip | escape }}"
+  data-arrows="{{ include.arrows | strip | escape }}"
+  data-arrow-width="{{ chess_replay_arrow_width | strip | escape }}"
+  data-pieces-file="{{ chess_replay_pieces_file | strip | escape }}"
+  data-label="{{ include.label | strip | escape }}"
+  {%- if jekyll.environment != "production" %} data-debug="true"{% endif %}>
+  <div class="chess-replay__fallback">
+    <p><strong>Chess sequence:</strong> {{ include.moves | strip | escape }}</p>
+  </div>
+  {%- if include.caption %}
+  <figcaption class="chess-replay__caption">{{ include.caption | strip | escape }}</figcaption>
+  {%- endif %}
+  <p class="chess-replay__credit">
+    Chess pieces by <a href="{{ chess_replay_defaults.pieces_credit_url | escape }}" rel="noopener">{{ chess_replay_defaults.pieces_credit | escape }}</a>,
+    <a href="{{ chess_replay_defaults.pieces_license_url | escape }}" rel="license noopener">{{ chess_replay_defaults.pieces_license | escape }}</a>
+  </p>
+</figure>

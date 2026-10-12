@@ -1,0 +1,22 @@
+cm-chessboard 8.15.3
+Source: https://github.com/shaack/cm-chessboard
+npm package: https://www.npmjs.com/package/cm-chessboard/v/8.15.3
+Code licence: MIT, see LICENSE
+
+Included files:
+- src/Chessboard.js and its required model, view and lib files
+- src/extensions/arrows/Arrows.js
+- src/extensions/markers/Markers.js
+- assets/chessboard.css
+- assets/extensions/arrows/arrows.css and arrows.svg
+- assets/extensions/markers/markers.css and markers.svg
+- assets/pieces/standard.svg
+
+The standard.svg pieces are the Wikimedia standard chess pieces by Colin M.L. Burnett (Cburnett).
+Source: https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces/Standard
+Piece licence: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+
+The package's default Staunty pieces are intentionally not included because they use the
+non-commercial CC BY-NC-SA 4.0 licence.
+
+These files are copied unchanged from the npm package, except unused extensions were omitted.
