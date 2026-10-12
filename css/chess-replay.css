@@ -1,0 +1,232 @@
+/* Chess replay boards. Change the variables below to restyle every replay. */
+.chess-replay {
+  --chess-replay-max-width: 480px;
+  --chess-replay-accent: #2a7ae2;
+  --chess-replay-text: #111;
+  --chess-replay-muted: #6b6b6b;
+  --chess-replay-border: #ded7cc;
+  --chess-replay-surface: #faf8f4;
+  --chess-replay-control: #fff;
+  --chess-replay-control-hover: #f0ece5;
+  --chess-replay-arrow-opacity: 0.72;
+  --chess-replay-arrow-green: #2f9e44;
+  --chess-replay-arrow-red: #d6336c;
+  --chess-replay-arrow-yellow: #f2b705;
+  --chess-replay-arrow-blue: #1c7ed6;
+  --chess-replay-arrow-grey: #6c757d;
+
+  max-width: var(--chess-replay-max-width);
+  margin: 36px auto;
+  color: var(--chess-replay-text);
+}
+
+.chess-replay__player {
+  padding: 12px;
+  border: 1px solid var(--chess-replay-border);
+  border-radius: 10px;
+  background: var(--chess-replay-surface);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.chess-replay__board {
+  width: 100%;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.chess-replay__board:focus-visible,
+.chess-replay__button:focus-visible,
+.chess-replay__move:focus-visible {
+  outline: 3px solid var(--chess-replay-accent);
+  outline-offset: 2px;
+}
+
+.chess-replay__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 12px;
+  margin-top: 12px;
+}
+
+.chess-replay__controls {
+  display: flex;
+  gap: 6px;
+}
+
+.chess-replay__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-width: 40px;
+  min-height: 40px;
+  padding: 0 10px;
+  border: 1px solid var(--chess-replay-border);
+  border-radius: 7px;
+  background: var(--chess-replay-control);
+  color: var(--chess-replay-text);
+  font: inherit;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.chess-replay__button:hover:not(:disabled) {
+  background: var(--chess-replay-control-hover);
+}
+
+.chess-replay__button:disabled {
+  cursor: default;
+  opacity: 0.38;
+}
+
+.chess-replay__button svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+.chess-replay__button--primary {
+  min-width: 92px;
+  border-color: var(--chess-replay-accent);
+  background: var(--chess-replay-accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.chess-replay__button--primary:hover:not(:disabled) {
+  background: #1f62bd;
+}
+
+.chess-replay__progress {
+  color: var(--chess-replay-muted);
+  font-size: 0.85em;
+  font-variant-numeric: tabular-nums;
+}
+
+.chess-replay__moves {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chess-replay__moves li {
+  margin: 0;
+}
+
+.chess-replay__move {
+  padding: 3px 7px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--chess-replay-text);
+  font: inherit;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.chess-replay__move:hover {
+  background: var(--chess-replay-control-hover);
+}
+
+.chess-replay__move[aria-current="step"] {
+  background: var(--chess-replay-accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.chess-replay__caption {
+  margin-top: 10px;
+  color: var(--chess-replay-muted);
+  font-size: 0.95em;
+  font-style: italic;
+  text-align: center;
+}
+
+.chess-replay__credit {
+  margin: 6px 0 0;
+  color: var(--chess-replay-muted);
+  font-size: 0.72em;
+  text-align: center;
+}
+
+.chess-replay__credit a {
+  color: inherit;
+}
+
+.chess-replay__status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.chess-replay__fallback,
+.chess-replay__error {
+  padding: 12px 14px;
+  border: 1px solid var(--chess-replay-border);
+  border-radius: 8px;
+  background: var(--chess-replay-surface);
+}
+
+.chess-replay__fallback p {
+  margin: 0;
+}
+
+.chess-replay__error {
+  border-color: #e8a0a0;
+  background: #fff4f4;
+  color: #8a1f1f;
+}
+
+.chess-replay--error .chess-replay__credit {
+  display: none;
+}
+
+.chess-replay .cm-chessboard .arrow-head {
+  fill-rule: nonzero;
+}
+
+.chess-replay .cm-chessboard .arrow-line {
+  opacity: var(--chess-replay-arrow-opacity);
+  stroke-linecap: round;
+}
+
+.chess-replay .cm-chessboard .arrow-replay-green .arrow-head { fill: var(--chess-replay-arrow-green); }
+.chess-replay .cm-chessboard .arrow-replay-green .arrow-line { stroke: var(--chess-replay-arrow-green); }
+.chess-replay .cm-chessboard .arrow-replay-red .arrow-head { fill: var(--chess-replay-arrow-red); }
+.chess-replay .cm-chessboard .arrow-replay-red .arrow-line { stroke: var(--chess-replay-arrow-red); }
+.chess-replay .cm-chessboard .arrow-replay-yellow .arrow-head { fill: var(--chess-replay-arrow-yellow); }
+.chess-replay .cm-chessboard .arrow-replay-yellow .arrow-line { stroke: var(--chess-replay-arrow-yellow); }
+.chess-replay .cm-chessboard .arrow-replay-blue .arrow-head { fill: var(--chess-replay-arrow-blue); }
+.chess-replay .cm-chessboard .arrow-replay-blue .arrow-line { stroke: var(--chess-replay-arrow-blue); }
+.chess-replay .cm-chessboard .arrow-replay-grey .arrow-head { fill: var(--chess-replay-arrow-grey); }
+.chess-replay .cm-chessboard .arrow-replay-grey .arrow-line { stroke: var(--chess-replay-arrow-grey); }
+
+@media (max-width: 520px) {
+  .chess-replay {
+    margin: 28px auto;
+  }
+
+  .chess-replay__player {
+    padding: 8px;
+  }
+
+  .chess-replay__toolbar {
+    justify-content: center;
+  }
+
+  .chess-replay__progress {
+    width: 100%;
+    text-align: center;
+  }
+}
