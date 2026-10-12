@@ -16,4 +16,4 @@ When I'm not playing chess or reading, I'm probably chasing around my cat **Lou*
 
 ![Lou the cat](/docs/assets/pictures/lou.jpeg)
 
-Beyond chess, I love diving into books — you can check out what I'm reading on [Goodreads](https://www.goodreads.com/review/list/49449364-maria).
+Beyond chess, I love diving into books — you can check out what I'm reading in [My 2026 in books]({% post_url 2026-01-01-my-2026-in-books %}) or follow along on [Goodreads](https://www.goodreads.com/review/list/49449364-maria).
