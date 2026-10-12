@@ -1,0 +1,8 @@
+chess.js 1.4.0
+Source: https://github.com/jhlywa/chess.js
+npm package: https://www.npmjs.com/package/chess.js/v/1.4.0
+Licence: BSD-2-Clause, see LICENSE
+
+Included files:
+- chess.js, copied unchanged from dist/esm/chess.js
+- chess.js.map, copied unchanged from dist/esm/chess.js.map

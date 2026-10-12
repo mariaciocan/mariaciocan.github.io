@@ -15,6 +15,22 @@ description: "I love chess and books, among other things. So I'll share reviews 
 youtube_username: "@Maria-qdreamer"
 #googleplus_username: +username
 
+# Default settings for chess replay boards. See setup.md before changing them.
+# Restart the local Jekyll preview after editing this file.
+chess_replay:
+  autoplay: "off"
+  speed: 1200
+  loop: false
+  loop_delay: 2000
+  orientation: "white"
+  theme: "default"
+  arrow_width: 1
+  pieces_file: "pieces/standard.svg"
+  pieces_credit: "Cburnett"
+  pieces_credit_url: "https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces/Standard"
+  pieces_license: "CC BY-SA 3.0"
+  pieces_license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
@@ -29,6 +45,17 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Jekyll's default exclusions are listed because this setting replaces them.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - setup.md
 
 titles_from_headings:
   strip_title: true
