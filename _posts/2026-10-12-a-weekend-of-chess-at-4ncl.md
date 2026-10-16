@@ -89,7 +89,7 @@ I’ve lost enough winning positions to know that behind any fury, there’s hea
 
 Luckily, I ended up feeling mostly okay by the end of the evening. I decided that the fact that I got a winning position was a good sign, and if that happened again in the next game, I wouldn’t miss. I also decided to completely blame it on the trains, of course. But don’t you worry, I did wait until the next day to file my complaint with the train operator.
 
-### Game two
+### Game two ♟️
 
 The pairings are out 90 minutes before each game, which gives players a little more than an hour to prepare their openings. (Looking up your opponent’s name and games on the internet and then revisiting your repertoire is very, very common in chess tournaments. It sometimes makes for a funny vibe in hotel lobbies—everyone is on their phones or laptops, moving chess pieces back and forth.) I saw that my opponent likes playing the Classical line of the French Defense and then going for the aggressive setup with long castling.
 
