@@ -2,7 +2,7 @@
 
 It’s autumn. For some, this means school is starting. For others, the summer of internships or vacationing is over, and it’s time to join a grad scheme or update their CV. For me, autumn means over-the-board chess is back! (<i>Isn't it funny, by the way, how much the Internet has shaped chess culture? Back in the day, over-the-board chess was just chess! Amazing!</i>)
 
-When I was a junior, summer often meant chess. Since going to tournaments during the school year meant missing school, I had fewer opportunities. So the summer break was the perfect moment to go away for a week and spend 3 to 6 hours in some hopefully air-conditioned-but-most-likely-not room playing chess. I started playing chess at 7 years old, and there was never a year I didn’t play at least one tournament over the summer until I turned 18.
+When I was a junior, the busiest chess moment of the year was the summer, since going to tournaments in the rest of the year meant missing school. So the summer break was the perfect opportunity to go away for a week and spend 3 to 6 hours in some hopefully air-conditioned-but-most-likely-not room playing chess. I started playing chess at 7 years old, and there was never a year I didn’t play at least one tournament over the summer until I turned 18.
 
 ![Young players taking part in a chess tournament](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_8957.jpeg)
 
