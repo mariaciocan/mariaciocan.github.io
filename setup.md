@@ -335,10 +335,12 @@ Restart the local preview after editing `_config.yml`.
 Preview the blog locally:
 
 ```bash
-bundle exec jekyll serve --drafts
+bundle exec jekyll serve --drafts --future --host 0.0.0.0
 ```
 
 Then open <http://localhost:4000>.
+
+Use the browser preview, not VS Code's built-in Markdown preview: the Markdown preview shows Jekyll includes as plain text and does not run the interactive chess board. In Codespaces, open port **4000** from the **Ports** tab. The `--future` option also includes posts dated ahead of the preview server's clock.
 
 The draft `_drafts/chess-replay-demo.md` contains examples of the main features and error messages. Use it as a template. It stays unpublished unless it is moved to `_posts/`.
 

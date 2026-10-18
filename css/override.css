@@ -3,6 +3,65 @@ hr {
   margin-bottom: 20px;
 }
 
+.video-preview {
+  margin: 24px 0 32px;
+}
+
+.video-preview-link {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.video-preview-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.video-preview-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 50px;
+  border-radius: 14px;
+  background: #c00;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.video-preview-play::before {
+  content: "";
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 17px solid #fff;
+  margin-left: 4px;
+}
+
+.video-preview-link:hover .video-preview-play,
+.video-preview-link:focus-visible .video-preview-play {
+  background: #900;
+}
+
+.video-preview-link:focus-visible {
+  outline: 3px solid #2a7ae2;
+  outline-offset: 4px;
+}
+
+.video-preview figcaption {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
