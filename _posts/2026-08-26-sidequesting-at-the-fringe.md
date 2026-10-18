@@ -1,3 +1,8 @@
+---
+preview_image: /docs/assets/pictures/2026-08-26/IMG_3328.jpeg
+preview_image_alt: Street in Edinburgh's Old Town
+---
+
 # Side-questing: improv comedy at the Fringe
 
 Every August, Edinburgh becomes the host of the world’s largest performing arts festival, the Edinburgh Festival Fringe. First established in 1947, the Fringe is now the face of theatre and comedy internationally, and has helped launch the careers of many talented artists. For example, the show Fleabag, written by Phoebe Waller-Bridge, was performed at the Fringe before being adapted for television. 

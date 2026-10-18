@@ -1,3 +1,8 @@
+---
+preview_image: /docs/assets/pictures/position1.png
+preview_image_alt: Chess position from a London League game
+---
+
 ## Can you keep your cool under fire?
 Maria Ciocan, October 2023
 
