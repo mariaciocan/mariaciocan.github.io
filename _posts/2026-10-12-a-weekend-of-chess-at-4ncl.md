@@ -13,7 +13,7 @@ Nowadays, I have the opposite schedule. The [London Chess League](https://london
     <img src="https://i.ytimg.com/vi/GzkMMkxST3o/hqdefault.jpg" alt="Thumbnail of my King's Indian game analysis" width="480" height="360" loading="lazy">
     <span class="video-preview-play" aria-hidden="true"></span>
   </a>
-  <figcaption><a href="https://www.youtube.com/watch?v=GzkMMkxST3o">Watch my King's Indian game analysis on YouTube</a></figcaption>
+  <figcaption><a href="https://www.youtube.com/watch?v=GzkMMkxST3o"></a></figcaption>
 </figure>
 
 The Four Nations Chess League is a team competition with five divisions. There is a promotion and relegation system between divisions, with Division One being the most competitive. You can think of its format as similar to the Olympiad, but with clubs instead of countries. Teams position their eight players according to rating-gap rules, and the line-ups become public two hours before the match starts. The players alternate colours: board one of one team plays White, board two plays Black, and so on. Each player’s result counts towards the team’s total, and the team that scores the most points across all games wins the match.
