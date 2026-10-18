@@ -9,7 +9,7 @@ When I was a junior, the busiest chess moment of the year was the summer, since 
 Nowadays, I have the opposite schedule. The [London Chess League](https://londonchess.com/) and the [UK’s Four Nations Chess League](https://www.4ncl.co.uk/) span the months of October through May to form what in my life represents the ✨chess season✨. Another indicator that the chess season is restarting in my life is that I've finally posted a new game analysis on YouTube. And bonus, it's in the King's Indian 😍. It blends some instructive strategical ideas with some unhinged ones that come up in a time scramble.
 
 <figure class="video-preview">
-  <a class="video-preview-link" href="https://www.youtube.com/watch?v=GzkMMkxST3o" aria-label="Watch my King's Indian game analysis on YouTube">
+  <a class="video-preview-link" href="https://www.youtube.com/watch?v=GzkMMkxST3o">
     <img src="https://i.ytimg.com/vi/GzkMMkxST3o/hqdefault.jpg" alt="Thumbnail of my King's Indian game analysis" width="480" height="360" loading="lazy">
     <span class="video-preview-play" aria-hidden="true"></span>
   </a>
