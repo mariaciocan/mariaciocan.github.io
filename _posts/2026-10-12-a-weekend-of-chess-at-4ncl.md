@@ -33,7 +33,7 @@ At first, I was skeptical about this format. In terms of effort, you end up trav
 
 Firstly, it is much more inclusive. Not everyone has the time and budget to book a week away from work for chess and pay for a hotel for a whole week. People can come for the weekend and choose not to play the whole thing. Since teams usually have more players in the squad than the eight they need for a day's match, they can rotate players so everyone can choose how many weekends to attend.
 
-Secondly, the worry I had about getting into rhythm can also be a plus: if you have a rocky start or a frustrating loss, you can go home, relax, train some more, and avoid ruining the rest of your games because of bad form.
+Secondly, what I saw as a downside — not having time to get into a rhythm — can also be a plus: if you have a rocky start or a frustrating loss, you can go home, relax, train some more, and avoid ruining the rest of your games because of bad form.
 
 Thirdly, this way of organizing shows awareness of the realities of being a strong non-professional chess player. Even as a titled player, you cannot reliably make a living from playing alone. Given the limited funding in competitive chess in general, it would be unfair to force people to drop their other commitments, and equally unfair to force them to miss out on one of the UK’s most competitive tournaments.
 
