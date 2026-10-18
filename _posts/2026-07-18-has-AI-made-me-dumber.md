@@ -55,3 +55,4 @@ Imagine an activity where using a phone is completely prohibited. Where even the
 It’s classical chess, babe! 💁🏻‍♀️ No better brain workout than staring at small pieces of wood for hours, overthinking their possible movements again and again. If your brain can go through that, you've definitely not gotten dumber! So see you at the chess board … 😌
 
 ![Maria at the chess board](/docs/assets/pictures/2026-07-18/at-the-chess-board.jpg)
+
