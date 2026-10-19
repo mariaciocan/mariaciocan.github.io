@@ -1,0 +1,18 @@
+{% assign feed_post = include.post %}
+<li class="post-feed-item">
+  <a class="post-feed-link" href="{{ feed_post.url | relative_url }}">
+    <img
+      class="post-feed-image"
+      src="{{ feed_post.preview_image | relative_url }}"
+      alt="{{ feed_post.preview_image_alt | default: feed_post.title | escape }}"
+      width="240"
+      height="160"
+      loading="lazy"
+      decoding="async">
+    <div class="post-feed-content">
+      <p class="post-feed-date">{{ feed_post.date | date: "%B %Y" }}</p>
+      <h4 class="post-feed-title">{{ feed_post.title | escape }}</h4>
+      <p class="post-feed-excerpt">{{ feed_post.excerpt | strip_html | strip_newlines | truncate: 180 | escape_once }}</p>
+    </div>
+  </a>
+</li>

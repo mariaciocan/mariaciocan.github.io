@@ -4,7 +4,7 @@ preview_image_alt: Chess position from a London League game
 ---
 
 ## Can you keep your cool under fire?
-Maria Ciocan, October 2023
+<span style="font-size: smaller;">*A closer look at a London League game where my opponent overplayed his hand and put my nerves to the test.*</span>
 
 
 It’s October and cities around the world are embracing the autumn looks, trading in
