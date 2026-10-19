@@ -1,3 +1,8 @@
+---
+preview_image: /docs/assets/pictures/2026-07-18/at-the-chess-board.jpg
+preview_image_alt: Maria at the chess board
+---
+
 ## Has AI made me dumber?
 <span style="font-size: smaller;">*An anxious girly's diary entry on tech & self-esteem*</span>
 

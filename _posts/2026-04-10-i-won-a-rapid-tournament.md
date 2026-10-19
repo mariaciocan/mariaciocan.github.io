@@ -1,3 +1,8 @@
+---
+preview_image: /docs/assets/pictures/bakery.png
+preview_image_alt: Coffee and pastry at a bakery
+---
+
 # I won a rapid tournament! 🏆❤️
 
 We are all overly familiar with all the heartbreak and frustration chess can incur in even the most calm & collected players 😅. But today I want to boast about the satisfaction of winning a game with a fiery tactic or a skillful strategic play, about the pride of seeing your name at the top of the leaderboard ... 

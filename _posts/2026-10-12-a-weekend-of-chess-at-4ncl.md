@@ -1,3 +1,8 @@
+---
+preview_image: /assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_8957.jpeg
+preview_image_alt: Young players taking part in a chess tournament
+---
+
 # A weekend of chess: 4NCL starts again
 
 It’s autumn. For some, this means school is starting. For others, the summer of internships or vacationing is over, and it’s time to join a grad scheme or update their CV. For me, autumn means over-the-board chess is back! (<i>Isn't it funny, by the way, how much the Internet has shaped chess culture? Back in the day, over-the-board chess was just chess! Amazing!</i>)
