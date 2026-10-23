@@ -7,7 +7,7 @@
   <div class="book-info">
     <h3 class="book-title">{{ include.title }}</h3>
     <p class="book-author">by {{ include.author }}</p>
-    {% include star-rating.html rating=include.rating %}
-    <p class="book-description">{{ include.description }}</p>
+    {% if include.rating %}{% include star-rating.html rating=include.rating %}{% endif %}
+    {% if include.description %}<p class="book-description">{{ include.description }}</p>{% endif %}
   </div>
 </div>
