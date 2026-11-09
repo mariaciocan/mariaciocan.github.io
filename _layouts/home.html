@@ -10,17 +10,20 @@ layout: default
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    {% assign pinned_posts = site.posts | where: "pinned", true %}
-    {% assign recent_posts = site.posts | where_exp: "post", "post.pinned != true" %}
+    <div class="section-heading">
+      <h2 class="post-list-heading">{{ page.list_title | default: "Latest writing" }}</h2>
+      <a href="{{ '/archive' | relative_url }}">All posts</a>
+    </div>
+    {% assign published_posts = site.posts | where_exp: "post", "post.path contains '_posts/'" %}
+    {% assign pinned_posts = published_posts | where: "pinned", true %}
+    {% assign recent_posts = published_posts | where_exp: "post", "post.pinned != true" %}
     {% assign featured_posts = pinned_posts | concat: recent_posts %}
     <ul class="post-feed">
       {% for post in featured_posts limit: 3 %}
         {% include post-feed-item.html post=post %}
       {% endfor %}
     </ul>
-    <p><a href="{{ '/archive' | relative_url }}">Read more</a></p>
-
-    <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
   {% endif %}
+
+  {% include about-me.html %}
 </div>
