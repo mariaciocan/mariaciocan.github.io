@@ -1,5 +1,5 @@
 ---
-preview_image: /assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_8957.jpeg
+preview_image: /docs/assets/pictures/2026-10-12/IMG_8957.jpeg
 preview_image_alt: Young players taking part in a chess tournament
 ---
 
@@ -9,7 +9,7 @@ It’s autumn. For some, this means school is starting. For others, the summer o
 
 When I was a junior, the busiest chess moment of the year was the summer, since going to tournaments in the rest of the year meant missing school. So the summer break was the perfect opportunity to go away for a week and spend 3 to 6 hours in some hopefully air-conditioned-but-most-likely-not room playing chess. I started playing chess at 7 years old, and there was never a year I didn’t play at least one tournament over the summer until I turned 18.
 
-![Young players taking part in a chess tournament](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_8957.jpeg)
+![Young players taking part in a chess tournament](/docs/assets/pictures/2026-10-12/IMG_8957.jpeg)
 
 Nowadays, I have the opposite schedule. The [London Chess League](https://londonchess.com/) and the [UK’s Four Nations Chess League](https://www.4ncl.co.uk/) span the months of October through May to form what in my life represents the ✨chess season✨. Another indicator that the chess season is restarting in my life is that I've finally posted a new game analysis on YouTube. And bonus, it's in the King's Indian 😍. It blends some instructive strategical ideas with some unhinged ones that come up in a time scramble.
 
@@ -44,7 +44,7 @@ Thirdly, this way of organizing shows awareness of the realities of being a stro
 
 Another quirky thing about the 4NCL, and about team competitions in general, is that the way you go from one opponent to the next feels completely different from an open tournament. In an open, if you win, you climb towards the top and thus face stronger and stronger opponents. If you start losing, you usually begin facing weaker and weaker opponents as well. But at the 4NCL, all teams face each other eventually. That basically means you might play terribly on a Saturday and then find out you’re facing a GM on Sunday. (This has happened to me: I went home with nil out of two, yikes.) Another thing that happened to me last year in Division One: despite struggling through the games and scoring 2.5/11 (which was decent, all things considered), all my opponents had a rating over 2000, and only two of them were under 2100.
 
-![Chess position with arrows showing possible attacking moves](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_8763.jpg)
+![Chess position with arrows showing possible attacking moves](/docs/assets/pictures/2026-10-12/IMG_8763.jpg)
 
 Last weekend, I played in Division Two. And although it's not as intense as Division One, I actually welcome the opportunity to win more. Both my opponents last weekend were around 2000 FIDE, and since my current rating is 2010, that makes it very achievable for me to win and grow my rating. But this also adds pressure. (Pressure from whom? From myself, of course. If you watch me on Twitch, you know I have no chill when it comes to chess.) Last year, when most of my games were against titled players, losing sucked less because it was the expected result. And even though I had a couple of devastating throwaways, I couldn’t be too hard on myself. This year, winning is much more the expected result if I want to approach the 2100 milestone.
 
@@ -113,11 +113,11 @@ I was both thrilled and apprehensive upon learning this. Thrilled because in a p
 
 Placing the knight on c4 was the end of my preparation, but I felt good knowing that I had looked at some typical ideas earlier in the day. The tricky thing about these positions is that they’re very scary and can become cut-throat very suddenly. White’s plan usually involves trying to push f5, and, if allowed, f6. If Black tries to stop this with g6, it weakens the dark squares, and White can choose between doubling up on the h-file, planting a knight on f6, or pushing h4-h5. The way my opponent played it, with g5 first, is also very valid.
 
-![Chess position with arrows illustrating White's kingside attacking plans](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/image.png)
+![Chess position with arrows illustrating White's kingside attacking plans](/docs/assets/pictures/2026-10-12/image.png)
 
 Black also has some typical ideas in its arsenal, but the delicacy of the position is choosing when to do what. Black’s main sacrifice idea is Knight takes b2, destabilizing the knight on c3. Black also wants to play b4 and bring the queen through a5, or, in some positions, play b4-a5-Ba5 to exchange White’s powerful bishop on d3.
 
-![Chess position with arrows illustrating Black's queenside plans](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/image-1.png)
+![Chess position with arrows illustrating Black's queenside plans](/docs/assets/pictures/2026-10-12/image-1.png)
 
 A few moves and trades later, I decide to bring my knight back to e7. This move was multi-purpose for me. On one hand, I send that knight towards the kingside for defensive purposes. For example, if White threatens mate with Qh5, I can now choose between playing g6 or Ng6. The knight also holds the f5 and d5 squares, since White is always on the lookout for f5 and N takes d5 ideas. On the other hand, I open lines for my rooks towards the White king.
 
@@ -157,4 +157,4 @@ Take Take Take is a new chess platform, founded by Magnus Carlsen and powered by
 
 Thank you so much for making it to the end of this article. I appreciate you ☺️
 
-![Maria at the chess tournament](/assets/docs/new/2026-10-12-a-weekend-of-chess-at-4ncl/IMG_7481.jpg)
+![Maria at the chess tournament](/docs/assets/pictures/2026-10-12/IMG_7481.jpg)

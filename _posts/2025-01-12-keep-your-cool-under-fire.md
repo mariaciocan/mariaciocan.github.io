@@ -1,5 +1,5 @@
 ---
-preview_image: /docs/assets/pictures/position1.png
+preview_image: /docs/assets/pictures/2025-01-12/position1.png
 preview_image_alt: Chess position from a London League game
 ---
 
@@ -25,7 +25,7 @@ the clock, so I quickly developed into a classic French defense setup. Following
 typical pawn breakthroughs c5 and d4, I found myself in the following middlegame:
 
 
-![Alt text](/docs/assets/pictures/position1.png)
+![Alt text](/docs/assets/pictures/2025-01-12/position1.png)
 
 
 I was mildly discontent with my position as black. My light-squared bishop was very
@@ -44,7 +44,7 @@ opponent take a wrong turn. Plus, I felt I had two easy moves ahead of me: Rb8 a
 Bd7, simply improving those pieces.
 My opponent took me by surprise:
 
-![Alt text](/docs/assets/pictures/position2.png)
+![Alt text](/docs/assets/pictures/2025-01-12/position2.png)
 
 
 White pushed f4-f5, a fairly aggressive move that threatens to take on g6. A move
@@ -52,7 +52,7 @@ before (see diagram above), I had thought about white pushing f5. I felt confide
 about responding with e5 so I dismissed that move for white.
 But seeing it played on the board forced me to explore the f takes g6 scenario:
 
-![alt text](/docs/assets/pictures/position3.png)
+![alt text](/docs/assets/pictures/2025-01-12/position3.png)
 
 
 
@@ -70,7 +70,7 @@ After he recaptured on d4 and I retreated the bishop, I realised white had much 
 dynamic play than I had anticipated:
 
 
-![alt text](/docs/assets/pictures/position5.png)
+![alt text](/docs/assets/pictures/2025-01-12/position5.png)
 
 Black should not forget that g takes h7 is just lurking in the background. The pressure of
 white’s heavy pieces on the open files, combined with the strength of the bishop pair,
@@ -78,7 +78,7 @@ makes up much more than a pawn.
 In fact, just one move later, I made a critical mistake, responding to Bh6 with Bg4:
 
 
-![alt text](/docs/assets/pictures/position6.png)
+![alt text](/docs/assets/pictures/2025-01-12/position6.png)
 
 I was now down to 30 seconds, just like my opponent, and I felt that the game was
 about to be decided momentarily. My go-to next move was taking the rook on f3. But I
@@ -87,11 +87,11 @@ the rook on f3 next move.
 With no one left to cover e6, the white queen scoops in to deliver a cute checkmate:
 
 
-![alt text](/docs/assets/pictures/position7.png)
+![alt text](/docs/assets/pictures/2025-01-12/position7.png)
 
 The best move for white after Bg4 is the quiet and efficient h3:
 
-![alt text](/docs/assets/pictures/position8.png)
+![alt text](/docs/assets/pictures/2025-01-12/position8.png)
 
 
 Since Bishop takes f3 leads to checkmate, black has to retreat. White’s pressure simply
@@ -101,7 +101,7 @@ happened: a queen sacrifice!
 My suspicious frowned turned into a worried one as I found my opponent’s fantastic
 checkmate idea:
 
-![alt text](/docs/assets/pictures/position9.png)
+![alt text](/docs/assets/pictures/2025-01-12/position9.png)
 
 
 I started calculating Q takes g3 instead, hoping to take on e2 after white takes on g3
@@ -112,7 +112,7 @@ continuation. It’s frustrating to see a hanging queen and be unable to take it
 when I finally found it:
 
 
-![alt text](/docs/assets/pictures/position10.png)
+![alt text](/docs/assets/pictures/2025-01-12/position10.png)
 
 King to f7! In my earlier calculation, I had missed the king’s escape to f7 and then e6 (if
 it wasn’t for e6, white would have Bg6 checkmate). But king to f7 puts an end to white’s
@@ -123,7 +123,7 @@ hand quickly pushed the king to f7.
 Relief took over my body and the game didn’t last much longer. Below is the final
 position:
 
-![alt text](/docs/assets/pictures/position11.png)
+![alt text](/docs/assets/pictures/2025-01-12/position11.png)
 
 
 We shook hands and I headed home feeling happy.
