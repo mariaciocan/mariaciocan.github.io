@@ -1,5 +1,5 @@
 ---
-preview_image: /docs/assets/pictures/bakery.png
+preview_image: /docs/assets/pictures/2026-04-10/bakery.png
 preview_image_alt: Coffee and pastry at a bakery
 ---
 
@@ -8,7 +8,7 @@ preview_image_alt: Coffee and pastry at a bakery
 We are all overly familiar with all the heartbreak and frustration chess can incur in even the most calm & collected players 😅. But today I want to boast about the satisfaction of winning a game with a fiery tactic or a skillful strategic play, about the pride of seeing your name at the top of the leaderboard ... 
 
 Last weekend, I played the [Ealing FIDE Rapid Play](https://londonfidecongress.com/ealing-rapidplay) tournament in West London. The format was 6 rounds, one after another, with a time control of 15 minutes + 5 seconds increment. It was a sunny but chilly day, and the playing venue was conveniently located close to a few stores, coffee shops, as well as one of my favorite bakeries, Gail's. Things were off to a promising sun as I got to enjoy a coffee and a pastry under the sun. 
-![Coffee and pastry at a bakery](/docs/assets/pictures/bakery.png)
+![Coffee and pastry at a bakery](/docs/assets/pictures/2026-04-10/bakery.png)
 
 
 But I did not have high expectations around the outcome of the tournament. I rarely play rapid over the board, so I often feel like classical chess is the only one I care about when it comes to my performance. I can't help but think about the [viral Dubov moment](https://www.youtube.com/shorts/MVBZu0k2R2g) and find that, in a hilarious way, he has a point. Rapid is tricky to play - you can't go too in depth in a position because you risk getting into inescapable time trouble, but you also can't rush through your moves because if you make a mistake, your opponent will have time to spot it. 
@@ -180,7 +180,7 @@ Two boards to the left, on board 1, Ali, who had defeated me in round 3, was pla
 
 I was now the runner-up, just behind Ali:
 
-![alt text](/docs/assets/pictures/rankings-after-rd5.png)
+![alt text](/docs/assets/pictures/2026-04-10/rankings-after-rd5.png)
 
 I knew that a win could potentially make me the winner of the tournament, but I was pretty confident Ali would bring it home in the last game. Maybe I just didn't want to get my hopes up.
 
@@ -223,5 +223,5 @@ HE SEES IT !!!!!
 
 I get up, quickly turning my huge grin away. No need to let Ali see me happy at his expense. He played such a good tournament. 
 ## I WON A RAPID TOURNAMENT !!! 
-![Out of context picture from Morocco - I did not take pics on the day of the tournament 🥲](/docs/assets/pictures/250D6202-90AF-40B2-B85C-32E084D16E80.jpeg)
+![Out of context picture from Morocco - I did not take pics on the day of the tournament 🥲](/docs/assets/pictures/2026-04-10/250D6202-90AF-40B2-B85C-32E084D16E80.jpeg)
 <i> Out of context picture from Morocco - I did not take pics on the day of the tournament 🥲</i>
