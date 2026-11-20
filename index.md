@@ -11,7 +11,7 @@ layout: home
 
 I'm **Maria**, a 25-year-old chess player, bookworm, and animal lover based in London 🇬🇧
 
-By day, I work in tech. By night — or really, any chance I get — I'm pushing pawns.
+By day, I work in tech. By night, or realistically speaking, after work, I love the challenge of a good game of chess.
 
 <div class="home-socials" aria-label="Find Maria elsewhere">
   <a href="https://www.twitch.tv/blitzingmaria">Twitch</a>
